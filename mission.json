@@ -1,0 +1,96 @@
+{
+  "waypoints": [
+    {
+      "index": 9,
+      "location": {
+        "latDeg": 41.504111111,
+        "lngDeg": -74.104833333,
+        "altM": 600
+      },
+      "type": "TakeOff"
+    },
+    {
+      "index": 10,
+      "location": {
+        "latDeg": 40.84975733505629,
+        "lngDeg": -76.78429037632233,
+        "altM": 600
+      },
+      "type": "Waypoint"
+    },
+    {
+      "index": 11,
+      "location": {
+        "latDeg": 40.498666688185985,
+        "lngDeg": -78.1479168442947,
+        "altM": 600
+      },
+      "type": "Waypoint"
+    },
+    {
+      "index": 12,
+      "location": {
+        "latDeg": 40.315555556,
+        "lngDeg": -78.834666667,
+        "altM": 600
+      },
+      "type": "Waypoint"
+    },
+    {
+      "index": 13,
+      "location": {
+        "latDeg": 38.812592088498484,
+        "lngDeg": -81.25478628580306,
+        "altM": 600
+      },
+      "type": "Waypoint"
+    },
+    {
+      "index": 14,
+      "location": {
+        "latDeg": 38.17479690016301,
+        "lngDeg": -82.24690658179959,
+        "altM": 600
+      },
+      "type": "Waypoint"
+    },
+    {
+      "index": 15,
+      "location": {
+        "latDeg": 36.7949991670001,
+        "lngDeg": -84.1995175,
+        "altM": 600
+      },
+      "type": "Waypoint"
+    },
+    {
+      "index": 16,
+      "location": {
+        "latDeg": 36.062659514449315,
+        "lngDeg": -84.75851794404122,
+        "altM": 600
+      },
+      "type": "Waypoint"
+    },
+    {
+      "index": 17,
+      "location": {
+        "latDeg": 35.03005499940985,
+        "lngDeg": -85.5250940060024,
+        "altM": 600
+      },
+      "type": "Waypoint"
+    },
+    {
+      "index": 18,
+      "location": {
+        "latDeg": 33.1777777780001,
+        "lngDeg": -86.7832222219999,
+        "altM": 600
+      },
+      "type": "Land",
+      "abortHeightM": 91
+    }
+  ],
+  "forceWrite": true
+}
